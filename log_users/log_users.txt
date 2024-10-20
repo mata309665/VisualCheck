@@ -1,4 +1,4 @@
-22:48 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
+2252  RootVS  LOGOUT  Usuario fez logout22:48 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 2247  RootVS  LOGOUT  Usuario fez logout22:47 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 2247  DZPS337  LOGOUT  Usuario fez logout22:43 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 22:43 - Root_VS - LOGOUT - Usuário fez logout
