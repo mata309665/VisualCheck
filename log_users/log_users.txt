@@ -1,6 +1,1 @@
-23:34 - Root_VS - LOGOUT - Usuario fez logout
-23:34 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
-23:32 - DZPS555 - ELIMINACAO - Usuario DZPS555 eliminado por DZPS337.
-23:31 - Miguel Mata - CRIACAO - Usuario DZPS555 criado por DZPS337. Detalhes: Username: DZPS555, Name: Miguel Mata, Email: Mmiguel.mata@volkswagen.pt, Role: admin, Status: ativo
-23:30 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 
