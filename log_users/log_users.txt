@@ -1,7 +1,1 @@
-23:05 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
-23:05 - Root_VS - LOGOUT - Usuario fez logout
-23:3 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
-23:03 - Root_VS - LOGOUT - Usuario fez logout
-23:2 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
-23:01 - Root_VS - LOGOUT - Usuario fez logout
-22:56 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
+
