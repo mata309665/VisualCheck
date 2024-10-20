@@ -1,22 +1,3 @@
 23:2 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 23:01 - Root_VS - LOGOUT - Usuario fez logout
 22:56 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
-2256  RootVS  LOGOUT  Usuario fez logout22:53 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
-22:52 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
-2252  RootVS  LOGOUT  Usuario fez logout22:52 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
-2252  RootVS  LOGOUT  Usuario fez logout22:48 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
-2247  RootVS  LOGOUT  Usuario fez logout22:47 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
-2247  DZPS337  LOGOUT  Usuario fez logout22:43 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
-22:43 - Root_VS - LOGOUT - Usuário fez logout
-22:43 - x - ELIMINACAO - Usuario x eliminado por Root_VS.
-22:39 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
-22:36 - xff - EDICAO - Edicao realizada por DZPS337. Nome alterado de "x" para "xff"
-22:35 - x - EDICAO - Edicao realizada por DZPS337. Status alterado de "desativo" para "ativo"
-22:32 - x - EDICAO - Edicao realizada por DZPS337. Antes: {"username":"x","name":"x","email":"xxx@xxx","role":"oper","password":"VW_VisualCheck","status":"ativo"}. Depois: {"username":"x","name":"x","email":"xxx@xxx","role":"oper","status":"desativo","password":"VW_VisualCheck"}
-21:25 - log - MENSAGEM - UsuÃƒÆ’Ã‚Â¡rio eliminado com sucesso.
-21:38 - a - MENSAGEM - UsuÃƒÂ¡rio criado com sucesso.
-21:48 - a - EDIÃ‡ÃƒO - EdiÃ§Ã£o realizada por DZPS337. Antes: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","password":"VW_VisualCheck","status":"ativo"}. Depois: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"bloqueado","password":"VW_VisualCheck"}
-21:54 - a - EDICAO - Edicao realizada por DZPS337. Antes: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"bloqueado","password":"VW_VisualCheck"}. Depois: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"desativo","password":"VW_VisualCheck"}
-22:4 - a - EDICAO - Edicao realizada por DZPS337. Status alterado de "desativo" para "ativo"
-22:11 - a - ELIMINACAO - Usuario a eliminado por DZPS337.
-22:21 - x - CRIACAO - Usuario x criado por DZPS337. Detalhes: {"username":"x","name":"x","email":"xxx@xxx","role":"oper","password":"VW_VisualCheck","status":"ativo"}
