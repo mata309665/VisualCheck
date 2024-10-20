@@ -1,8 +1,1 @@
-{
-  "username": "DZPS337",
-  "name": "Andre Mata",
-  "email": "andre.mata@volkswagen.pt",
-  "role": "admin",
-  "password": "12",
-  "status": "Active"
-}
+{"username":"Root","name":"oper","email":"root.vw@volkswagen.pt","role":"root","password":"1","status":"ativo"}
