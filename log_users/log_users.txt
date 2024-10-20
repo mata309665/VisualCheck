@@ -1,1 +1,2 @@
-21:25 - log - MENSAGEM - Usu·rio eliminado com sucesso.
+21:25 - log - MENSAGEM - Usu√°rio eliminado com sucesso.
+21:38 - a - MENSAGEM - Usu·rio criado com sucesso.
