@@ -1,3 +1,4 @@
+22:43 - Root_VS - LOGOUT - Usuário fez logout
 22:43 - x - ELIMINACAO - Usuario x eliminado por Root_VS.
 22:39 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 22:36 - xff - EDICAO - Edicao realizada por DZPS337. Nome alterado de "x" para "xff"
