@@ -1,2 +1,3 @@
+23:16 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 23:16 - Root_VS - LOGOUT - Usuario fez logout
 
