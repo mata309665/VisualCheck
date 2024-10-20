@@ -1,4 +1,4 @@
-22:53 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
+2256  RootVS  LOGOUT  Usuario fez logout22:53 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 22:52 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 2252  RootVS  LOGOUT  Usuario fez logout22:52 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 2252  RootVS  LOGOUT  Usuario fez logout22:48 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
