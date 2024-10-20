@@ -2,7 +2,7 @@
   "username": "1",
   "name": "teste",
   "email": "teste@teste.pt",
-  "role": "operator",
+  "role": "root",
   "password": "VW_PALMELA_2025",
   "status": "Active"
 }
