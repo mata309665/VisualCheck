@@ -1,3 +1,4 @@
+00:56 - ss - LOGIN FALHA - Credenciais incorretas
 00:56 - as - LOGIN FALHA - Credenciais incorretas
 00:56 - as - LOGIN FALHA - Credenciais incorretas
 00:56 - Root_VS - LOGOUT - Usuario fez logout
