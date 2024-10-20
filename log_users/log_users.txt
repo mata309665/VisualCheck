@@ -1,2 +1,3 @@
-21:25 - log - MENSAGEM - Usu√°rio eliminado com sucesso.
-21:38 - a - MENSAGEM - Usu·rio criado com sucesso.
+21:25 - log - MENSAGEM - Usu√É¬°rio eliminado com sucesso.
+21:38 - a - MENSAGEM - Usu√°rio criado com sucesso.
+21:48 - a - EDI«√O - EdiÁ„o realizada por DZPS337. Antes: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","password":"VW_VisualCheck","status":"ativo"}. Depois: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"bloqueado","password":"VW_VisualCheck"}
