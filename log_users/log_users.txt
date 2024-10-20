@@ -9,10 +9,3 @@
 23:39 - DZPS337 - LOGOUT - Usuario fez logout
 23:38 - x - EDICAO - Edicao realizada por DZPS337. Papel alterado de "oper" para "admin"
 23:38 - x - CRIACAO - Usuario x criado por DZPS337. Detalhes: Username: x, Name: x, Email: mata309665@gmail.com, Role: oper, Status: ativo
-23:37 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
-23:37 - DZPS337 - LOGIN FALHA - Credenciais incorretas
-23:37 - DZPS337 - LOGOUT - Usuario fez logout
-23:37 - DZPS655 - ELIMINACAO - Usuario DZPS655 eliminado por DZPS337.
-23:36 - Miguel Mata - CRIACAO - Usuario DZPS655 criado por DZPS337. Detalhes: Username: DZPS655, Name: Miguel Mata, Email: miguel.mata@volkswagen.pt, Role: admin, Status: ativo
-23:35 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
-
