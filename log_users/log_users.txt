@@ -1,3 +1,4 @@
+22:39 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 22:36 - xff - EDICAO - Edicao realizada por DZPS337. Nome alterado de "x" para "xff"
 22:35 - x - EDICAO - Edicao realizada por DZPS337. Status alterado de "desativo" para "ativo"
 22:32 - x - EDICAO - Edicao realizada por DZPS337. Antes: {"username":"x","name":"x","email":"xxx@xxx","role":"oper","password":"VW_VisualCheck","status":"ativo"}. Depois: {"username":"x","name":"x","email":"xxx@xxx","role":"oper","status":"desativo","password":"VW_VisualCheck"}
