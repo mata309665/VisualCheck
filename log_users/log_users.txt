@@ -1,4 +1,5 @@
 00:56 - as - LOGIN FALHA - Credenciais incorretas
+00:56 - as - LOGIN FALHA - Credenciais incorretas
 00:56 - Root_VS - LOGOUT - Usuario fez logout
 0:54 - x - ELIMINACAO - Usuario x eliminado por Root_VS.
 0:54 - x - EDICAO - Edicao realizada por Root_VS. Papel alterado de "admin" para "oper"
