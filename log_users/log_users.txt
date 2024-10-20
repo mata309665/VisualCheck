@@ -4,3 +4,4 @@
 21:54 - a - EDICAO - Edicao realizada por DZPS337. Antes: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"bloqueado","password":"VW_VisualCheck"}. Depois: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"desativo","password":"VW_VisualCheck"}
 22:4 - a - EDICAO - Edicao realizada por DZPS337. Status alterado de "desativo" para "ativo"
 22:11 - a - ELIMINACAO - Usuario a eliminado por DZPS337.
+22:21 - x - CRIACAO - Usuario x criado por DZPS337. Detalhes: {"username":"x","name":"x","email":"xxx@xxx","role":"oper","password":"VW_VisualCheck","status":"ativo"}
