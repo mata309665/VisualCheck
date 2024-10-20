@@ -1,2 +1,3 @@
+23:36 - Miguel Mata - CRIACAO - Usuario DZPS655 criado por DZPS337. Detalhes: Username: DZPS655, Name: Miguel Mata, Email: miguel.mata@volkswagen.pt, Role: admin, Status: ativo
 23:35 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 
