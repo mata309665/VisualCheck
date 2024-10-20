@@ -1,3 +1,4 @@
-21:25 - log - MENSAGEM - UsuÃ¡rio eliminado com sucesso.
-21:38 - a - MENSAGEM - Usuário criado com sucesso.
-21:48 - a - EDI��O - Edi��o realizada por DZPS337. Antes: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","password":"VW_VisualCheck","status":"ativo"}. Depois: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"bloqueado","password":"VW_VisualCheck"}
+21:25 - log - MENSAGEM - UsuÃƒÂ¡rio eliminado com sucesso.
+21:38 - a - MENSAGEM - UsuÃ¡rio criado com sucesso.
+21:48 - a - EDIÇÃO - Edição realizada por DZPS337. Antes: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","password":"VW_VisualCheck","status":"ativo"}. Depois: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"bloqueado","password":"VW_VisualCheck"}
+21:54 - a - EDICAO - Edicao realizada por DZPS337. Antes: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"bloqueado","password":"VW_VisualCheck"}. Depois: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"desativo","password":"VW_VisualCheck"}
