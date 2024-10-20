@@ -2,3 +2,4 @@
 21:38 - a - MENSAGEM - UsuÃ¡rio criado com sucesso.
 21:48 - a - EDIÇÃO - Edição realizada por DZPS337. Antes: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","password":"VW_VisualCheck","status":"ativo"}. Depois: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"bloqueado","password":"VW_VisualCheck"}
 21:54 - a - EDICAO - Edicao realizada por DZPS337. Antes: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"bloqueado","password":"VW_VisualCheck"}. Depois: {"username":"a","name":"a","email":"xxx@xxx","role":"oper","status":"desativo","password":"VW_VisualCheck"}
+22:4 - a - EDICAO - Edicao realizada por DZPS337. Status alterado de "desativo" para "ativo"
