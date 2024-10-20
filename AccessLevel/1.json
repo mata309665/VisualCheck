@@ -1,8 +1,1 @@
-{
-  "username": "1",
-  "name": "teste",
-  "email": "teste@teste.pt",
-  "role": "root",
-  "password": "1",
-  "status": "Active"
-}
+{"username":"Root","name":"oper","email":"root.vw@volkswagen.pt","role":"root","password":"1","status":"ativo"}
