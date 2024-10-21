@@ -1,3 +1,4 @@
+15:40 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 15:40 - DZPMMAT - LOGIN FALHA - Credenciais incorretas
 15:40 - Miguel Mata - LOGIN FALHA - Credenciais incorretas
 15:40 - DZPMMAT - LOGIN FALHA - Credenciais incorretas
