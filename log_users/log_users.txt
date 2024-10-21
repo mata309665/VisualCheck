@@ -1,3 +1,4 @@
+01:00 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 1:0 - Operador - ELIMINACAO - Usuario Operador eliminado por null.
 01:00 - DZPS337 - LOGOUT - Usuario fez logout
 00:56 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
