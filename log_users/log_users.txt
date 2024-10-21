@@ -1,3 +1,4 @@
+15:36 - dzps337 - LOGIN FALHA - Credenciais incorretas
 15:36 - dzpmmat - LOGIN FALHA - Credenciais incorretas
 15:31 - Miguel Mata - CRIACAO - Usuario DZPMMAT criado por DZPS337. Detalhes: Username: DZPMMAT, Name: Miguel Mata, Email: miguel.mata@volkswagen.pt, Role: admin, Status: ativo
 15:28 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
