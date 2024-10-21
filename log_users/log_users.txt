@@ -1,3 +1,4 @@
+1:10 - x - ELIMINACAO - Usuario x eliminado por Root_VS.
 1:6 - x - CRIACAO - Usuario x criado por null. Detalhes: Username: x, Name: x, Email: xxx@xxx, Role: oper, Status: ativo
 01:00 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 1:0 - Operador - ELIMINACAO - Usuario Operador eliminado por null.
