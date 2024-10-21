@@ -1,3 +1,4 @@
+01:12 - Root_VS - LOGOUT - Usuario fez logout
 1:11 - Operador - CRIACAO - Usuario Operador criado por Root_VS. Detalhes: Username: Operador, Name: Operador, Email: operador@operador.pt, Role: oper, Status: ativo
 1:10 - x - ELIMINACAO - Usuario x eliminado por Root_VS.
 1:6 - x - CRIACAO - Usuario x criado por null. Detalhes: Username: x, Name: x, Email: xxx@xxx, Role: oper, Status: ativo
