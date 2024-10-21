@@ -1,3 +1,4 @@
+03:08 - Operador - LOGIN FALHA - Credenciais incorretas
 03:08 - DZPS337 - LOGOUT - Usuario fez logout
 01:12 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 01:12 - Root_VS - LOGOUT - Usuario fez logout
