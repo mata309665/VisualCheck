@@ -1,3 +1,4 @@
+01:00 - DZPS337 - LOGOUT - Usuario fez logout
 00:56 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 00:56 - ss - LOGIN FALHA - Credenciais incorretas
 00:56 - as - LOGIN FALHA - Credenciais incorretas
