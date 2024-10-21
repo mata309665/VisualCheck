@@ -1,3 +1,4 @@
+15:05 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 03:09 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 03:08 - operador - LOGIN FALHA - Credenciais incorretas
 03:08 - Operador - LOGIN FALHA - Credenciais incorretas
