@@ -1,3 +1,4 @@
+15:40 - DZPS337 - LOGOUT - Usuario fez logout
 15:40 - Miguel Mata - CRIACAO - Usuario DZPMMAT criado por DZPS337. Detalhes: Username: DZPMMAT, Name: Miguel Mata, Email: miguel.mata@volkswagen.pt, Role: admin, Status: ativo
 15:39 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 15:39 - DZPMMAT - ELIMINACAO - Usuario DZPMMAT eliminado por DZPS337.
