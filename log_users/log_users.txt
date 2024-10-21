@@ -1,3 +1,4 @@
+15:28 - Dzps337 - LOGIN FALHA - Credenciais incorretas
 15:27 - ROOT_VW - LOGIN FALHA - Credenciais incorretas
 15:27 - Root_VW - LOGIN FALHA - Credenciais incorretas
 15:27 - DZPS337 - LOGOUT - Usuario fez logout
