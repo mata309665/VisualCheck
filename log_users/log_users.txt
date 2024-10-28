@@ -1,3 +1,4 @@
+20:57 - 111 - LOGIN FALHA - Credenciais incorretas
 20:57 - DZPS111 - LOGIN FALHA - Credenciais incorretas
 20:57 - 111 - CRIACAO - Usuario DZPS111 criado por DZPS337. Detalhes: Username: DZPS111, Name: 111, Email: 111@111.11, Role: oper, Status: ativo
 20:56 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
