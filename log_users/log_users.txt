@@ -1,3 +1,4 @@
+21:39 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 21:15 - 111 - LOGIN SUCESSO - Login realizado com sucesso
 21:14 - 111 - LOGIN SUCESSO - Login realizado com sucesso
 21:14 - DZPS337 - LOGOUT - Usuario fez logout
