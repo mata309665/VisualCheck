@@ -1,3 +1,4 @@
+23:50 - xxxx - CRIACAO - Usuario xxxx criado por DZPS337. Detalhes: Username: xxxx, Name: xxxx, Email: xxx@xxx.xx, Role: oper, Status: ativo
 23:49 - x - FALHA - Erro ao criar o utilizador.
 23:49 - x - FALHA - Erro ao criar o utilizador.
 23:49 - x - FALHA - Erro ao criar o utilizador.
