@@ -1,3 +1,4 @@
+21:42 - 111 - LOGIN FALHA - Credenciais incorretas
 21:41 - 111 - ELIMINACAO - Usuario 111 eliminado por DZPS337.
 21:40 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 21:39 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
