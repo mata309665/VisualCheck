@@ -1,5 +1,6 @@
 23:49 - x - FALHA - Erro ao criar o utilizador.
 23:49 - x - FALHA - Erro ao criar o utilizador.
+23:49 - x - FALHA - Erro ao criar o utilizador.
 23:49 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 23:45 - 11 - ELIMINACAO - Usuario 11 eliminado por DZPS337.
 23:43 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
