@@ -1,3 +1,4 @@
+22:1 - a - EDICAO - Edicao realizada por DZPS337. Nenhuma alteracao feita.
 22:1 - x - CRIACAO - Usuario x criado por DZPS337. Detalhes: Username: x, Name: x, Email: xxx@xxx, Role: oper, Status: ativo
 21:42 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 21:42 - 111 - LOGIN FALHA - Credenciais incorretas
