@@ -1,3 +1,4 @@
+0:12 - Miguel Mata - EDICAO - Edicao realizada por Root_VS. Papel alterado de "admin" para "oper"
 0:9 - Miguel Mata - EDICAO - Edicao realizada por Root_VS. Nenhuma alteracao feita.
 00:03 - Root_VS - LOGIN SUCESSO - Login realizado com sucesso
 00:03 - Root - LOGIN FALHA - Credenciais incorretas
