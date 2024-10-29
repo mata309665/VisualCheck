@@ -1,3 +1,4 @@
+00:03 - Root - LOGIN FALHA - Credenciais incorretas
 00:02 - DZPS337 - LOGOUT - Usuario fez logout
 23:53 - xxxx - ELIMINACAO - Usuario xxxx eliminado por DZPS337.
 23:53 - x - ELIMINACAO - Usuario x eliminado por DZPS337.
