@@ -1,3 +1,4 @@
+00:27 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 00:17 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 0:13 - Miguel Mata - EDICAO - Edicao realizada por Root_VS. Papel alterado de "oper" para "admin_local"
 0:12 - Andre Mata - EDICAO - Edicao realizada por Root_VS. Papel alterado de "admin" para "admin_global"
