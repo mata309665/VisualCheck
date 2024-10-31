@@ -1,4 +1,5 @@
 17:43 - x - LOGIN FALHA - Credenciais incorretas
+17:43 - x - LOGIN FALHA - Credenciais incorretas
 17:41 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 17:29 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 07:48 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
