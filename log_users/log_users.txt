@@ -1,3 +1,4 @@
+10/31/2024, 9:41:03 PM - DZPS337 - UPLOAD XML - Arquivo MatProg004.xml carregado para Import_Master/SCA_Master
 10/31/2024, 9:33:40 PM - DZPS337 - UPLOAD XML - Arquivo MatProg004.xml carregado para Import_Master/SCA_Master
 21:09 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
 20:09 - DZPS337 - LOGIN SUCESSO - Login realizado com sucesso
