@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<materialProgram>
+  <MaterialProg>
+    <FileVersion>18</FileVersion>
+    <ProgramNumber>4</ProgramNumber>
+    <ProgramName>&lt; Cópia do pr3 150518</ProgramName>
+    <VolumeDesired>1420</VolumeDesired>
+    <VolumeHighLimit>5</VolumeHighLimit>
+    <VolumeLowLimit>5</VolumeLowLimit>
+    <MaterialFlow>175</MaterialFlow>
+    <MaterialPressure_1>0</MaterialPressure_1>
+    <SetPrePressure_1>50</SetPrePressure_1>
+    <AutoPrePressure_1>50</AutoPrePressure_1>
+    <MaterialPressure_2>0</MaterialPressure_2>
+    <SetPrePressure_2>0</SetPrePressure_2>
+    <AutoPrePressure_2>50</AutoPrePressure_2>
+    <ViscoPreset>100</ViscoPreset>
+    <PrepressureFixedAnalogValue>false</PrepressureFixedAnalogValue>
+    <PrepressureIgnoreVolumeDeviation>false</PrepressureIgnoreVolumeDeviation>
+    <PressureHighLimit_1>200</PressureHighLimit_1>
+    <PressureLowLimit_1>0</PressureLowLimit_1>
+    <PressureHighLimit_2>200</PressureHighLimit_2>
+    <PressureLowLimit_2>0</PressureLowLimit_2>
+    <SwirlVal>50</SwirlVal>
+    <SwirlOffDelay>0</SwirlOffDelay>
+    <VisionStoppingTime>0</VisionStoppingTime>
+    <MaxRobotVelocity>50</MaxRobotVelocity>
+    <BeadCounter_Enable>false</BeadCounter_Enable>
+    <BeadCounter_Set>1</BeadCounter_Set>
+    <StepBeadEnable>false</StepBeadEnable>
+    <PressureControl>false</PressureControl>
+    <StopOnVolume>false</StopOnVolume>
+    <StepbeadWithCompensation>false</StepbeadWithCompensation>
+    <VisionMonEnable>false</VisionMonEnable>
+    <PrepressureEnable>false</PrepressureEnable>
+    <PrepressureTriggerEnable>0</PrepressureTriggerEnable>
+    <PrepressureTriggerDelay>500</PrepressureTriggerDelay>
+    <BeadTableMaterial_Array coding="base64" compression="lz4">8CAyKC0oMjIyLSgeDwoFCgoUMkY8KDIyMEtLS0tBFBQeKEEyUFAyMktLUDc3SzcyPBcA31BVWkstKCMeHh4eLTIBAKhQMjIyMjI=</BeadTableMaterial_Array>
+    <BeadTableSwirl_Array coding="base64" compression="lz4">HzIBAOdQMjIyMjI=</BeadTableSwirl_Array>
+    <BeadTablePrePress_Array coding="base64" compression="lz4">MzJBMgEAER4BAIMoMjIyPDIyUBUABQIAEkYKAHI8PDw8RktLDQAyHh4eCQAPAgCjUDIyMjIy</BeadTablePrePress_Array>
+    <BeedTableEswirlStroke_Array coding="base64" compression="lz4">HwABAOdQAAAAAAA=</BeedTableEswirlStroke_Array>
+    <StitchBeadLength_1 coding="base64" compression="lz4">HwABAP/oUAAAAAAA</StitchBeadLength_1>
+    <StitchBeadLength_2 coding="base64" compression="lz4">HwABAP/oUAAAAAAA</StitchBeadLength_2>
+    <StitchBeadLength_3 coding="base64" compression="lz4">HwABAP/oUAAAAAAA</StitchBeadLength_3>
+    <StitchBeadLength_4 coding="base64" compression="lz4">HwABAP/oUAAAAAAA</StitchBeadLength_4>
+    <StitchBeadLength_5 coding="base64" compression="lz4">HwABAP/oUAAAAAAy</StitchBeadLength_5>
+    <StitchBeadGap_1 coding="base64" compression="lz4">HwABAP/oUAAAAAAA</StitchBeadGap_1>
+    <StitchBeadGap_2 coding="base64" compression="lz4">HwABAP/oUAAAAAAA</StitchBeadGap_2>
+    <StitchBeadGap_3 coding="base64" compression="lz4">HwABAP/oUAAAAAAA</StitchBeadGap_3>
+    <StitchBeadGap_4 coding="base64" compression="lz4">HwABAP/oUAAAAAAA</StitchBeadGap_4>
+    <StitchBeadGap_5 coding="base64" compression="lz4">HwABAP/oUAAAAAAy</StitchBeadGap_5>
+    <StitchBeadMaterial_1 coding="base64" compression="lz4">HwABAOdQAAAAAAA=</StitchBeadMaterial_1>
+    <StitchBeadMaterial_2 coding="base64" compression="lz4">HwABAOdQAAAAAAA=</StitchBeadMaterial_2>
+    <StitchBeadMaterial_3 coding="base64" compression="lz4">HwABAOdQAAAAAAA=</StitchBeadMaterial_3>
+    <StitchBeadMaterial_4 coding="base64" compression="lz4">HwABAOdQAAAAAAA=</StitchBeadMaterial_4>
+    <StitchBeadMaterial_5 coding="base64" compression="lz4">HwABAOdQAAAAADI=</StitchBeadMaterial_5>
+    <SingleBeadLimit_Array coding="base64" compression="lz4">EQABAGEERwAAASILAA8CAP///9pQAAAAAAA=</SingleBeadLimit_Array>
+    <SingleBeadLowLimit_Array coding="base64" compression="lz4">HxkBAOdQGRkZGRk=</SingleBeadLowLimit_Array>
+    <SingleBeadHighLimit_Array coding="base64" compression="lz4">HxkBAOdQGRkZGRk=</SingleBeadHighLimit_Array>
+    <SingleBead_xPosition_Array coding="base64" compression="lz4">LwfQAgD/51DQB9AH0A==</SingleBead_xPosition_Array>
+    <StichMon_ExpectedNoOfStitches_Array coding="base64" compression="lz4">H2QBAOdQZGRkZGQ=</StichMon_ExpectedNoOfStitches_Array>
+    <SingleBeadMonitoringEnable>true</SingleBeadMonitoringEnable>
+  </MaterialProg>
+</materialProgram>
